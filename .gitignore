@@ -1,0 +1,6 @@
+**/.exercism/
+**/.lein-failures
+**/.lein-repl-history
+**/.idea
+**/.target
+**/*.iml
